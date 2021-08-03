@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vasav-Trehan
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python Django
-- 💞️ I’m looking to collaborate on Python Django
-- 📫 How to reach me mail me at contact.technifyed@gmail.com
+- 📫 To reach me visit [my website](https://www.technifyed.com/contact-us/)
 
 <!---
 Vasav-Trehan/Vasav-Trehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
